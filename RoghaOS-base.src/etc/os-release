@@ -1,0 +1,9 @@
+PRETTY_NAME="RoghaOS codename Eolas"
+NAME="RoghaOS"
+VERSION_ID="1"
+VERSION="1"
+VERSION_CODENAME=Eolas
+ID=debian
+HOME_URL="https://roghaos.github.io/"
+SUPPORT_URL="https://riot.im/app/#/room/!kxpTjkahGfXqDsuznF:matrix.org?via=matrix.org"
+BUG_REPORT_URL="https://github.com/RoghaOS/RoghaOS/issues"
